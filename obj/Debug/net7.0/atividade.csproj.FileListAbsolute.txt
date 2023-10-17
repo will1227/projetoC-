@@ -1,0 +1,14 @@
+C:\Users\will\Documents\teste dark\atividade\bin\Debug\net7.0\atividade.exe
+C:\Users\will\Documents\teste dark\atividade\bin\Debug\net7.0\atividade.deps.json
+C:\Users\will\Documents\teste dark\atividade\bin\Debug\net7.0\atividade.runtimeconfig.json
+C:\Users\will\Documents\teste dark\atividade\bin\Debug\net7.0\atividade.dll
+C:\Users\will\Documents\teste dark\atividade\bin\Debug\net7.0\atividade.pdb
+C:\Users\will\Documents\teste dark\atividade\obj\Debug\net7.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\will\Documents\teste dark\atividade\obj\Debug\net7.0\atividade.AssemblyInfoInputs.cache
+C:\Users\will\Documents\teste dark\atividade\obj\Debug\net7.0\atividade.AssemblyInfo.cs
+C:\Users\will\Documents\teste dark\atividade\obj\Debug\net7.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\will\Documents\teste dark\atividade\obj\Debug\net7.0\atividade.dll
+C:\Users\will\Documents\teste dark\atividade\obj\Debug\net7.0\refint\atividade.dll
+C:\Users\will\Documents\teste dark\atividade\obj\Debug\net7.0\atividade.pdb
+C:\Users\will\Documents\teste dark\atividade\obj\Debug\net7.0\atividade.genruntimeconfig.cache
+C:\Users\will\Documents\teste dark\atividade\obj\Debug\net7.0\ref\atividade.dll
