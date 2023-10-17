@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\will\\Documents\\teste dark\\atividade\\atividade.csproj": {}
+    "C:\\Users\\will\\Documents\\teste dark\\atividade\\atividade.csproj": {}
   },
   "projects": {
-    "c:\\Users\\will\\Documents\\teste dark\\atividade\\atividade.csproj": {
+    "C:\\Users\\will\\Documents\\teste dark\\atividade\\atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\will\\Documents\\teste dark\\atividade\\atividade.csproj",
+        "projectUniqueName": "C:\\Users\\will\\Documents\\teste dark\\atividade\\atividade.csproj",
         "projectName": "atividade",
-        "projectPath": "c:\\Users\\will\\Documents\\teste dark\\atividade\\atividade.csproj",
+        "projectPath": "C:\\Users\\will\\Documents\\teste dark\\atividade\\atividade.csproj",
         "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\will\\Documents\\teste dark\\atividade\\obj\\",
+        "outputPath": "C:\\Users\\will\\Documents\\teste dark\\atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\will\\AppData\\Roaming\\NuGet\\NuGet.Config"
